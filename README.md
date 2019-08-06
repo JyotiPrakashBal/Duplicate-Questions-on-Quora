@@ -26,7 +26,7 @@ Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate. T
 <br/><b>fuzz_token_set_ratio</b>: token_set_ratio that takes out the common tokens and then makes fuzz.ratio() pairwise comparisons
 <br/><b>fuzz_token_sort_ratio</b>: sorting the tokens in string and then scoring fuzz_ratio. <br/>
 <br/>
-<b>Got Word Movers Distance with pretrained Google news word vectors.</b>
+Got <b>Word Movers Distance</b> with pretrained Google news word vectors.</b>
 <br/>
 </br>
 From Pretrained Google news word vectors got  sent2vec for question1 and question2. With this sent2vec got the distances: <br/>
