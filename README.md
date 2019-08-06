@@ -3,7 +3,7 @@
 <b>Problem Statement : 
 <br/> <br/>
 </b>
-Identify which questions asked on Quora are duplicates of questions that have already been asked.
+Identify which questions asked on Quora are duplicates of questions that have already been asked. This is a Kaggle Problem. The datasets are available on [Link](https://www.kaggle.com/c/quora-question-pairs)
 <br/> <br/>
 <b>Data : <br/><br/>
 </b>
